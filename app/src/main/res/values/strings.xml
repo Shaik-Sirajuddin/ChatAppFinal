@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatAppEnc</string>
+    <string name="send">Send</string>
+    <string name="type_your_message_here">Type Your Message Here</string>
+</resources>
